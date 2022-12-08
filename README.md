@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Boschetzel
-- 👀 I’m interested in OOP/DataScience and ML
+- 👀 I’m interested in OOP/DataScience and Automation
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python OpenSource Projects
 - 📫 How to reach me - dm 
